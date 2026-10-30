@@ -25,7 +25,6 @@
 - 🚀 I'm a MERN Stack Developer.
 - 💻 Interested in Full Stack Web Development.
 - 🌱 Continuously learning and improving my development skills.
-- 🎨 Interested in creating modern UI/UX and interactive 3D websites.
 - 🤝 Open to collaboration and exciting development opportunities.
 
 ## 🛠️ Tech Stack
